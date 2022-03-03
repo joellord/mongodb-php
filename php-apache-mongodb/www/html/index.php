@@ -65,4 +65,7 @@ $speakers = $collection->find()->toArray();
 echo("This collection contains ".count($speakers)." documents");
 echo("<br/>");
 
-// $data = file_get_contents("")
+$data = file_get_contents("https://raw.githubusercontent.com/joellord/mongodb-php/main/sample_data.json");
+$collection->insertMany(json_decode($data));
+$speakers = $collection->find()->toArray();
+echo("This collection contains ".count($speakers)." documents");

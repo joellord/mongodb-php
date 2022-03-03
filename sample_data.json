@@ -1,1 +1,150 @@
-[{"name":"Cathriona Horton","socials":{"Twitter":"https://twitter.com/yellowsnake450"}},{"name":"Selma Brunet","socials":{"Twitter":"https://twitter.com/organiczebra523"}},{"name":"Samuel Taylor","socials":{"Twitter":"https://twitter.com/redelephant877"}},{"name":"Valentin Haack","socials":{"Twitter":"https://twitter.com/whiteostrich410"}},{"name":"Sedef Sarıoğlu","socials":{"Twitter":"https://twitter.com/tinyduck362"}},{"name":"Eva Castro","socials":{"Twitter":"https://twitter.com/silverrabbit195"}},{"name":"Elizabeth Jones","socials":{"Twitter":"https://twitter.com/organicfish954"}},{"name":"Nevaeh Walker","socials":{"Twitter":"https://twitter.com/smallpeacock758"}},{"name":"Ernest Oliver","socials":{"Twitter":"https://twitter.com/yellowpeacock267"}},{"name":"Beatrice Sirko","socials":{"Twitter":"https://twitter.com/happylion244"}},{"name":"Benjamin Johansen","socials":{"Twitter":"https://twitter.com/purplemeercat741"}},{"name":"Sebastian Price","socials":{"Twitter":"https://twitter.com/ticklishswan998"}},{"name":"Juana Diaz","socials":{"Twitter":"https://twitter.com/crazytiger889"}},{"name":"Juho Lepisto","socials":{"Twitter":"https://twitter.com/ticklishbird570"}},{"name":"Justin Grewal","socials":{"Twitter":"https://twitter.com/blueswan160"}},{"name":"Oliver Maijala","socials":{"Twitter":"https://twitter.com/brownrabbit918"}},{"name":"Arn Vassdal","socials":{"Twitter":"https://twitter.com/silverpanda585"}},{"name":"Ayla Edwards","socials":{"Twitter":"https://twitter.com/orangetiger339"}},{"name":"Maël Francois","socials":{"Twitter":"https://twitter.com/beautifulzebra699"}},{"name":"Nanna Pedersen","socials":{"Twitter":"https://twitter.com/crazymouse233"}},{"name":"Sheila Berger","socials":{"Twitter":"https://twitter.com/yellowcat283"}},{"name":"Zachary Palmer","socials":{"Twitter":"https://twitter.com/tinyduck944"}},{"name":"Ege Dağdaş","socials":{"Twitter":"https://twitter.com/redlion813"}},{"name":"Matilda Wien","socials":{"Twitter":"https://twitter.com/yellowelephant417"}},{"name":"Ramona Brown","socials":{"Twitter":"https://twitter.com/redbird412"}}]
+[
+  {
+    "name": "Cathriona Horton",
+    "socials": {
+      "Github": "https://github.com/yellowsnake450"
+    }
+  },
+  {
+    "name": "Selma Brunet",
+    "socials": {
+      "Twitter": "https://twitter.com/organiczebra523"
+    }
+  },
+  {
+    "name": "Samuel Taylor",
+    "socials": {
+      "Twitter": "https://twitter.com/redelephant877",
+      "Github": "https://github.com/redelephant877"
+    }
+  },
+  {
+    "name": "Valentin Haack",
+    "socials": {
+      "Twitter": "https://twitter.com/whiteostrich410"
+    }
+  },
+  {
+    "name": "Sedef Sarıoğlu",
+    "socials": {
+      "Twitter": "https://twitter.com/tinyduck362"
+    }
+  },
+  {
+    "name": "Eva Castro",
+    "socials": {
+      "Twitter": "https://twitter.com/silverrabbit195"
+    }
+  },
+  {
+    "name": "Elizabeth Jones"
+  },
+  {
+    "name": "Nevaeh Walker",
+    "socials": {
+      "Twitter": "https://twitter.com/smallpeacock758"
+    }
+  },
+  {
+    "name": "Ernest Oliver",
+    "socials": {
+      "Twitter": "https://twitter.com/yellowpeacock267",
+      "Github": "https://github.com/yellowpeacock267"
+    }
+  },
+  {
+    "name": "Beatrice Sirko",
+    "socials": {
+      "Github": "https://github.com/happylion244"
+    }
+  },
+  {
+    "name": "Benjamin Johansen",
+    "socials": {
+      "Twitter": "https://twitter.com/purplemeercat741"
+    }
+  },
+  {
+    "name": "Sebastian Price"
+  },
+  {
+    "name": "Juana Diaz",
+    "socials": {
+      "Twitter": "https://twitter.com/crazytiger889",
+      "Github": "https://github.com/crazytiger889"
+    }
+  },
+  {
+    "name": "Juho Lepisto",
+    "socials": {
+      "Github": "https://github.com/ticklishbird570"
+    }
+  },
+  {
+    "name": "Justin Grewal",
+    "socials": {
+      "Twitter": "https://twitter.com/blueswan160"
+    }
+  },
+  {
+    "name": "Oliver Maijala",
+    "socials": {
+      "Twitter": "https://twitter.com/brownrabbit918"
+    }
+  },
+  {
+    "name": "Arn Vassdal",
+    "socials": {
+      "Twitter": "https://twitter.com/silverpanda585"
+    }
+  },
+  {
+    "name": "Ayla Edwards",
+    "socials": {
+      "Twitter": "https://twitter.com/orangetiger339",
+      "Github": "https://github.com/orangetiger339"
+    }
+  },
+  {
+    "name": "Maël Francois",
+    "socials": {
+      "Twitter": "https://twitter.com/beautifulzebra699"
+    }
+  },
+  {
+    "name": "Nanna Pedersen",
+    "socials": {
+      "Twitter": "https://twitter.com/crazymouse233"
+    }
+  },
+  {
+    "name": "Sheila Berger",
+    "socials": {
+      "Github": "https://github.com/yellowcat283"
+    }
+  },
+  {
+    "name": "Zachary Palmer",
+    "socials": {
+      "Twitter": "https://twitter.com/tinyduck944"
+    }
+  },
+  {
+    "name": "Ege Dağdaş",
+    "socials": {
+      "Twitter": "https://twitter.com/redlion813"
+    }
+  },
+  {
+    "name": "Matilda Wien",
+    "socials": {
+      "Twitter": "https://twitter.com/yellowelephant417"
+    }
+  },
+  {
+    "name": "Ramona Brown",
+    "socials": {
+      "Github": "https://github.com/redbird412"
+    }
+  }
+]
