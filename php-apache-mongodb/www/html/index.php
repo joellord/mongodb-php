@@ -1,9 +1,7 @@
 <?php
 require_once __DIR__ . '/vendor/autoload.php';
 
-$client = new MongoDB\Client(
-    'mongodb+srv://blog:blog@cluster0.2grje.mongodb.net/myFirstDatabase?authSource=admin&replicaSet=atlas-v6xmes-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true'
-);
+$client = new MongoDB\Client('<CONNECTION_STRING>');
 $db = $client->perfectMatch;
 $collection = $db->speakers;
 $collection->drop();
@@ -68,4 +66,22 @@ echo("<br/>");
 $data = file_get_contents("https://raw.githubusercontent.com/joellord/mongodb-php/main/sample_data.json");
 $collection->insertMany(json_decode($data));
 $speakers = $collection->find()->toArray();
-echo("This collection contains ".count($speakers)." documents");
+echo("This collection now contains ".count($speakers)." documents");
+echo("<br/>");
+
+$pipeline = [
+  ['$project' => [
+    '_id' => 0,
+    'name' => 1,
+    'socials' => 1
+  ]],
+  ['$sort' => [
+    'name' => 1
+  ]],
+  ['$limit' => 5]
+];
+$speakers = $collection->aggregate($pipeline);
+foreach($speakers as $speaker) {
+  echo($speaker->name);
+  echo("<br/>");
+}
